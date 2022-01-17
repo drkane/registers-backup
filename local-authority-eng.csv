@@ -1,4 +1,14 @@
 index-entry-number,entry-number,entry-timestamp,key,local-authority-eng,local-authority-type,name,official-name,start-date,end-date
+403,403,2021-04-01T12:00:00Z,WNT,WNT,UA,West Northamptonshire,"West Northamptonshire Council",2021-04-01,
+402,402,2021-04-01T12:00:00Z,NNT,NNT,UA,North Northamptonshire,"North Northamptonshire Council",2021-04-01,
+401,401,2016-10-21T16:11:20Z,WEL,WEL,NMD,Wellingborough,"Wellingborough Borough Council",1974-04-01,2021-03-31
+400,400,2016-10-21T16:11:20Z,SNR,SNR,NMD,"South Northamptonshire","South Northamptonshire Council",1974-04-01,2021-03-31
+399,399,2016-10-21T16:11:20Z,NOR,NOR,NMD,Northampton,"Northampton Borough Council",1974-04-01,2021-03-31
+398,398,2016-10-21T16:11:20Z,KET,KET,NMD,Kettering,"Kettering Borough Council",1974-04-01,2021-03-31
+397,397,2016-10-21T16:11:20Z,ENO,ENO,NMD,"East Northamptonshire","East Northamptonshire Council",1974-04-01,2021-03-31
+396,396,2016-10-21T16:11:20Z,DAV,DAV,NMD,Daventry,"Daventry District Council",1974-04-01,2021-03-31
+395,395,2016-10-21T16:11:20Z,COR,COR,NMD,Corby,"Corby Borough Council",1974-04-01,2021-03-31
+394,394,2016-10-21T16:11:20Z,NTH,NTH,CTY,Northamptonshire,"Northamptonshire County Council",,2021-03-31
 393,393,2020-02-29T11:57:30Z,BUC,BUC,UA,Buckinghamshire,"Buckinghamshire Council",2020-04-01,
 392,392,2020-02-29T11:57:30Z,BKM,BKM,CTY,Buckinghamshire,"Buckinghamshire County Council",1905-06-19,2020-03-31
 391,391,2020-02-29T11:57:30Z,AYL,AYL,NMD,"Aylesbury Vale","Aylesbury Vale District Council",,2020-03-31
@@ -109,14 +119,6 @@ index-entry-number,entry-number,entry-timestamp,key,local-authority-eng,local-au
 279,279,2016-10-21T16:11:20Z,BAE,BAE,NMD,Bassetlaw,"Bassetlaw District Council",,
 278,278,2016-10-21T16:11:20Z,ASH,ASH,NMD,Ashfield,"Ashfield District Council",,
 277,277,2016-10-21T16:11:20Z,NTT,NTT,CTY,Nottinghamshire,"Nottinghamshire County Council",,
-276,276,2016-10-21T16:11:20Z,WEL,WEL,NMD,Wellingborough,"Wellingborough Borough Council",,
-275,275,2016-10-21T16:11:20Z,SNR,SNR,NMD,"South Northamptonshire","South Northamptonshire Council",,
-274,274,2016-10-21T16:11:20Z,NOR,NOR,NMD,Northampton,"Northampton Borough Council",,
-273,273,2016-10-21T16:11:20Z,KET,KET,NMD,Kettering,"Kettering Borough Council",,
-272,272,2016-10-21T16:11:20Z,ENO,ENO,NMD,"East Northamptonshire","East Northamptonshire Council",,
-271,271,2016-10-21T16:11:20Z,DAV,DAV,NMD,Daventry,"Daventry District Council",,
-270,270,2016-10-21T16:11:20Z,COR,COR,NMD,Corby,"Corby Borough Council",,
-269,269,2016-10-21T16:11:20Z,NTH,NTH,CTY,Northamptonshire,"Northamptonshire County Council",,
 268,268,2016-10-21T16:11:20Z,SNO,SNO,NMD,"South Norfolk","South Norfolk District Council",,
 267,267,2016-10-21T16:11:20Z,NOW,NOW,NMD,Norwich,"Norwich City Council",,
 266,266,2016-10-21T16:11:20Z,NNO,NNO,NMD,"North Norfolk","North Norfolk District Council",,
