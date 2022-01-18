@@ -51,6 +51,11 @@ register_merged = pd.concat([
     register_to_add,
 ], ignore_index=True).sort_values("index-entry-number", ascending=False)
 
+# make sure all the fields as stripped
+fields = ["key", "government-organisation", "name", "website"]
+for field in fields:
+    register_merged.loc[:, field] = register_merged[field].str.strip()
+
 
 print(f"{len(register_new['key'].isin(register['key']))} organisations are in both")
 # print(f"{len([f for f in new_orgs if f not in existing_orgs])} organisations are new source but not in old register")
